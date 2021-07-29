@@ -3,8 +3,8 @@ Hello guys. My name is Adam and I'm frontend developer. I like making new websit
 
 ## Projects
 
-| Name of the project | How long you are there? | Your position? | Is it public?
-|--|--|--|--|--|
+| Name of the project | How long you are there? | Your position? | Is it public? |
+|--|--|--|--|
 | [BeastBlock.cz](https://beastblock.cz)| From january | Administrator | Yes
 | [Garlic Team](https://github.com/garlic-team) | 29.07.2021 | Frontend web (helper) | Yes (open source projects)
 | Raido Crew | From April? | Founder | Yes (Discord bots)
