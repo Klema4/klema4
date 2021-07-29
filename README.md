@@ -5,10 +5,10 @@ Hello guys. My name is Adam and I'm frontend developer. I like making new websit
 
 | Name of the project | How long you are there? | Your position? | Is it public? |
 |--|--|--|--|
-| [BeastBlock.cz](https://beastblock.cz)| From january | Administrator | Yes (Czech MC server)
-| [Garlic Team](https://github.com/garlic-team) | 29.07.2021 | Frontend web (helper) | Yes (open source projects)
-| Raido Crew | From April? | Founder | Yes (Discord bots)
-| [The Developers](https://discord.gg/thedevs) | 2020 | Co-owner / coordinator | Yes (CZ/SK/ENG Dev community |
+| [BeastBlock.cz](https://beastblock.cz)| From january | Administrator | Yes (Czech MC server) |
+| [Garlic Team](https://github.com/garlic-team) | 29.07.2021 | Frontend web (helper) | Yes (open source projects) |
+| Raido Crew | From April? | Founder | Yes (Discord bots) |
+| [The Developers](https://discord.gg/thedevs) | 2020 | Co-owner / coordinator | Yes (CZ/SK/ENG Dev community) |
 | [The Designers](https://discord.com/invite/kzGPXGYYr9) | 28.07.2021 | Owner / founder | Yes (CZ/SK/ENG Designers community) |
 
 ## Where I can find you?
