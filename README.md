@@ -1,5 +1,5 @@
 ## About me
-Hello guys. My name is Adam and I'm frontend developer. I like making new websites. It's something like my second hobby. I also play badminton in a sport way, maybe 3 years from now? I'm doing administration work on BeastBlock.cz, that is a Minecraft project of Nakashi.
+Hello guys. My name is Adam and I'm a frontend developer. I like making new websites. It's something like my second hobby. I also play badminton in a sporting way, maybe 3 years from now? I'm doing administration work on BeastBlock.cz, which is a Minecraft project of Nakashi.
 
 ## Projects
 
@@ -12,4 +12,4 @@ Hello guys. My name is Adam and I'm frontend developer. I like making new websit
 | [The Designers](https://discord.com/invite/kzGPXGYYr9) | 28.07.2021 | Owner / founder | Yes (CZ/SK/ENG Designers community) |
 
 ## Where I can find you?
-I'm  very active on Discord as a `Kléma#2856` or my IG account `@adam__klement`, but it will be better if you send a message on Discord actually.
+I'm very active on Discord as a `Kléma#2856` or my IG account `@adam__klement`, but it will be better if you send a message on Discord.
