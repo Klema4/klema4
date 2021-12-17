@@ -3,10 +3,10 @@ Hello guys. My name is Adam and I'm a frontend developer. I like making new webs
 
 ## Projects
 
-| Name of the project | How long you are there? | Your position? | Is it public? |
+| Name of the project | Date of joining | Your position? | Is it public? |
 |--|--|--|--|
-| [BeastBlock.cz](https://beastblock.cz)| From january | Administrator, Technic | Yes (Czech MC server) |
+| [BeastBlock.cz](https://beastblock.cz)| January 2021 | Administrator, Technic | Yes (Czech MC server) |
 | [Let's Study](https://dsc.gg/uceni) | July 2021 | Leader, Admin | Yes (CZ/SK study community) |
 
 ## Where I can find you?
-I'm very active on Discord as a `Kléma#2512` or my IG account `@adam__klement`, but it will be better if you send a message on Discord.
+I'm very active on Discord as a `Kléma#2152` or my IG account `@adam__klement`, but it will be better if you send a message on Discord.
