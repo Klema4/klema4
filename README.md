@@ -7,6 +7,8 @@ Hello guys. My name is Adam and I'm a frontend developer. I like making new webs
 |--|--|--|--|
 | [BeastBlock.cz](https://beastblock.cz)| January 2021 | Administrator, Technic | Yes (Czech MC server) |
 | [Let's Study](https://dsc.gg/uceni) | July 2021 | Leader, Admin | Yes (CZ/SK study community) |
+| [MineWood.cz](https://dsc.gg/minewood) | November 2021 | Leader, Technic | Yes (CZ/SK MC server) |
+| [Hexaverse.cz](https://hexaverse.cz) | December 2021 | Technic | Yes (CZ/SK  MC server) |
 
 ## Where I can find you?
 I'm very active on Discord as a `Kléma#2152` or my IG account `@adam__klement`, but it will be better if you send a message on Discord.
