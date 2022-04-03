@@ -12,5 +12,5 @@ Hello guys. My name is Adam and I'm a frontend developer. I like making new webs
 ## Where I can find you?
 I'm very active on Discord as a `Kléma#2152` or my IG account `@adam__klement`, but it will be better if you send a message on Discord.
 
-## Why did you removed old repos?
+## Why did you remove old repos?
 Uugh, they were pretty cringe and also going to make me die from that. Idk, would you leave that public when that repos didn't have any files? Also, I'm not pretty happy to have things on GitHub like my old Discord Bot Maker projects, random projects, etc. Hope you understand that.
