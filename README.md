@@ -1,17 +1,18 @@
 ## About me
-Hello guys. My name is Adam and I'm a frontend developer. I like making new websites. It's something like my second hobby. I also play badminton in a sporting way, maybe 3 years from now? I'm doing administration work on BeastBlock.cz, which is a Minecraft project of Nakashi.
+Hey everyone and welcome to my profile! 👋
 
-## Projects
+I'm Adam, a PC nerd and also a website developer. My passion is making frontend for many sites, doing graphical stuff or managing large projects under someone else.
+In my free time, I play badminton for 4 years or take a walk (teenage things).
 
-| Name of the project | Date of joining | Your position? | Is it public? |
+## Where I was working
+| Involved projects | Working since | Position | Public? |
 |--|--|--|--|
-| [BeastBlock.cz](https://beastblock.cz)| January 2021 | Administrator, Technic | Yes (Czech MC server) |
-| [Let's Study](https://dsc.gg/uceni) | July 2021 | Leader, Admin | Yes (CZ/SK study community) |
-| [MineWood.cz](https://dsc.gg/minewood) | November 2021 | Leader, Technic | Yes (CZ/SK MC server) |
-| [KDUI.gq](https://kdui.gq/) | February 2022 | Founder, Coder | No, not yet. |
+| [BeastBlock.cz](https://beastblock.cz)| January 2021 | Leader, developer | Yes (mc.beastblock.cz) |
+| [Let's Create](https://lets-create.cz) | July 2021 | Leader, graphic | Yes (discord.gg/uceni) |
+| [MineWood.cz](https://dsc.gg/minewood) | November 2021 | Leader | At this time no |
+| [ZeroToil MC](https://mc.zerotoil.net/) | November 2021 | Staff, support, graphic | Yes |
+| [Nakashiho kurník](https://dsc.gg/nakashi) | June 2022 | Administrator | Yes |
 
 ## Where can I find you?
-I'm very active on Discord as a `Kléma#2152` or my IG account `@adam__klement`, but it would be better if you msg me on Discord. :3
-
-## Why did you remove old repos?
-Uugh, they were pretty cringe and also going to make me die from that. Idk, would you leave that public when that repos didn't have any files? Also, I'm not pretty happy to have things on GitHub like my old Discord Bot Maker projects, random projects, etc. Hope you understand that.
+We have an open business with my friend Petr, where you can contact me and order graphics or website design. Its name it's [Barmy Production](https://barmy-production.eu) and it's relatively new so please be aware of this.
+I'm very active on my Discord account [@klema](https://discord.com/users/885972168352088105), or if you need to find me on social media, everything is located at [this site](https://adam-klement.cz/linktree).
