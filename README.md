@@ -2,12 +2,12 @@
 Hey everyone and welcome to my profile! 👋
 
 I'm Adam, a PC nerd and also a website developer. My passion is making frontend for many sites, doing graphical stuff or managing large projects under someone else.
-In my free time, I play badminton for 4 years or take a walk (teenage things).
+In my free time, I play badminton for 5 years or take a walk (teenage things).
 
 ## Where I was working
 | Involved projects | Working since | Position | Public? |
 |--|--|--|--|
-| [BeastBlock.cz](https://beastblock.cz)| January 2021 | Leader, developer | Yes (mc.beastblock.cz) |
+| [BeastBlock.cz](https://beastblock.cz)| January 2021 | Leader, developer | No (stopped indefinetly) |
 | [Let's Create](https://lets-create.cz) | July 2021 | Leader, graphic | Yes (discord.gg/uceni) |
 | [MineWood.cz](https://dsc.gg/minewood) | November 2021 | Leader | At this time no |
 | [ZeroToil MC](https://mc.zerotoil.net/) | November 2021 | Staff, support, graphic | Yes |
