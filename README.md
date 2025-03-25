@@ -1,18 +1,22 @@
-## About me
-Hey everyone and welcome to my profile! 👋
+# 😊 About me
+Hello everyone!
 
-I'm Adam, a PC nerd and also a website developer. My passion is making frontend for many sites, doing graphical stuff or managing large projects under someone else.
-In my free time, I play badminton for 5 years or take a walk (teenage things).
+I'm Adam, an adult from Czech Republic building modern websites with passion and a lot of love. I'm developing on frontend for about 7 years and since then, I came across many new technologies as well as experiences when building websites. In my free time, I often go play badminton (playing since 2019), go for a walk or just relax and develop amazing things.
 
-## Where I was working
+# 🔧 Involvements and experiences
 | Involved projects | Working since | Position | Public? |
 |--|--|--|--|
-| [BeastBlock.cz](https://beastblock.cz)| January 2021 | Leader, developer | No (stopped indefinetly) |
-| [Let's Create](https://lets-create.cz) | July 2021 | Leader, graphic | Yes (discord.gg/uceni) |
-| [MineWood.cz](https://dsc.gg/minewood) | November 2021 | Leader | At this time no |
-| [ZeroToil MC](https://mc.zerotoil.net/) | November 2021 | Staff, support, graphic | Yes |
-| [Nakashiho kurník](https://dsc.gg/nakashi) | June 2022 | Administrator | Yes |
+| [Let's Create](https://lets-create.cz) | Jul 2021 | Founder, CEO | Yes |
+| [ePřehled](https://eprehled.cz) | Oct 2024 | Frontend dev, Graphic | Yes |
+| [Tour de App (SCG)](https://tourde.app) | Oct 2024 | Graphic, PRMKT | Yes |
+| [NajduKariéru.cz](https://najdukarieru.cz) | Sep 2024 | Graphic, Frontend dev, Consultant | Yes |
 
-## Where can I find you?
-We have an open business with my friend Petr, where you can contact me and order graphics or website design. Its name it's [Barmy Production](https://barmy-production.eu) and it's relatively new so please be aware of this.
-I'm very active on my Discord account [@klema](https://discord.com/users/885972168352088105), or if you need to find me on social media, everything is located at [this site](https://adam-klement.cz/linktree).
+# 🏆 My personal achievements
+- 🫖 CAE Cambridge - C1 English Certificate
+- 🧡 Currently learning React and Next.js
+- 🤠 Making my own organization and web dev agency
+
+# 👀 Where you can find me?
+I've been working on my own agency, [BetterWeb](https://betterweb.cz), where you can order any type of website or UI/UX design from me. I'm also a lot active on our educational project called [Let's Study](https://discord.gg/uceni), where you can meet other students, help with homeworks or school and chat about anything you want. If you'd like to get to know me better, I'll be more than proud to see you at my [personal website](https://adam-klement.cz).
+
+See you soon!
